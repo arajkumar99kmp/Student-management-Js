@@ -32,9 +32,9 @@ function init() {
     } else {
         // Sample data
         students = [
-            { id: 'S001', name: 'John Doe', age: 20, grade: 'A' },
-            { id: 'S002', name: 'Jane Smith', age: 21, grade: 'B' },
-            { id: 'S003', name: 'Mike Johnson', age: 19, grade: 'C' }
+            { id: 'S001', name: 'Name-1', age: 20, grade: 'A' },
+            { id: 'S002', name: 'Name-2', age: 21, grade: 'B' },
+            { id: 'S003', name: 'Name--3', age: 19, grade: 'C' }
         ];
         saveToLocalStorage();
     }

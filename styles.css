@@ -72,10 +72,10 @@ tr:hover {
     margin: 0 5px;
 }
 .edit {
-    background-color: #2196F3;
+   background-color: #e5e5e5;
 }
 .delete {
-    background-color: #f44336;
+background-color: #e5e5e5;
 }
 .container {
     background-color: white;
