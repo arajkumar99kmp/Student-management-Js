@@ -34,7 +34,7 @@ function init() {
         students = [
             { id: 'S001', name: 'Name-1', age: 20, grade: 'A' },
             { id: 'S002', name: 'Name-2', age: 21, grade: 'B' },
-            { id: 'S003', name: 'Name--3', age: 19, grade: 'C' }
+            { id: 'S003', name: 'Name-3', age: 19, grade: 'C' }
         ];
         saveToLocalStorage();
     }
